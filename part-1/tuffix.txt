@@ -1,6 +1,2 @@
-// Jason Le
-// CPSC 121-03
-// json05@csu.fullerton.edu
-
 "The cost of liberty is less than the price of repression."
 from John Brown by W.E.B. Du Bois
